@@ -76,12 +76,12 @@ export default {
       pagesize: '/pàgina',
       total: 'Total {total}',
       pageClassifier: '',
-      page: 'Page', // to be translated
-      prev: 'Go to previous page', // to be translated
-      next: 'Go to next page', // to be translated
-      currentPage: 'page {pager}', // to be translated
-      prevPages: 'Previous {pager} pages', // to be translated
-      nextPages: 'Next {pager} pages', // to be translated
+      page: 'Pàgina', 
+      prev: 'Pàgina anterior', 
+      next: 'Página següent',
+      currentPage: 'Pàgina {pager}', 
+      prevPages: '{pager} pàgines anteriors', 
+      nextPages: '{pager} pàgines següents', 
     },
     messagebox: {
       confirm: 'Acceptar',
